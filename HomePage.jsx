@@ -94,6 +94,23 @@ const HomePage = () => {
           </div>
           <p>Thousands of students are mastering math with our top-rated quiz!</p>
         </div>
+        <div class="features">
+            <h2>Why Choose EduAssess?</h2>
+            <div class="feature-list">
+                <div class="feature-item">
+                    <h3>Interactive Quizzes</h3>
+                    <p>Engage with quizzes that are designed to be fun and informative.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Custom Assessments</h3>
+                    <p>Create custom quizzes tailored to your specific needs and curriculum.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Detailed Analytics</h3>
+                    <p>Track progress and performance with detailed analytics and reports.</p>
+                </div>
+            </div>
+        </div>
 
         <div className="countdown">
           <h2>Upcoming Features</h2>
